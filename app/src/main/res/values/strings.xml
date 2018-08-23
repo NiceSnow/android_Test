@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">MyTestProject</string>
+<string name="title_home">Home</string>
+<string name="title_dashboard">Dashboard</string>
+<string name="title_notifications">Notifications</string>
+<string name="title_my">my</string>
+<string name="appName">测试代码</string>
+<string name="broadCast">broadCastTest</string>
+</resources>
