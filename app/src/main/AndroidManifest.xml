@@ -34,7 +34,7 @@
         </receiver>
 
         <activity
-            android:name=".CustomViewActivity"
+            android:name=".NetWorkActivity"
             android:label="@string/appName">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
